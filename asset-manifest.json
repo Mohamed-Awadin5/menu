@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/menu/static/css/main.b5378bfc.css",
+    "main.js": "/menu/static/js/main.9842b2b5.js",
+    "static/js/787.6b503308.chunk.js": "/menu/static/js/787.6b503308.chunk.js",
+    "static/media/fa-solid-900.ttf": "/menu/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/menu/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/menu/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/menu/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/item-7.jpeg": "/menu/static/media/item-7.2b2d85320c08729e6a58.jpeg",
+    "static/media/item-2.jpeg": "/menu/static/media/item-2.f0b6b25efcbd39c641cb.jpeg",
+    "static/media/item-8.jpeg": "/menu/static/media/item-8.77daac2abe411b747cb4.jpeg",
+    "static/media/item-10.jpeg": "/menu/static/media/item-10.1132c139a0a94008a325.jpeg",
+    "static/media/item-4.jpeg": "/menu/static/media/item-4.1246e0c14d2695db1ae5.jpeg",
+    "static/media/item-1.jpg": "/menu/static/media/item-1.59f884831772e6397275.jpg",
+    "static/media/item-6.jpeg": "/menu/static/media/item-6.71751fefb2ee55699e44.jpeg",
+    "static/media/fa-regular-400.ttf": "/menu/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/item-3.jpeg": "/menu/static/media/item-3.41dbf97f88e1e73a7474.jpeg",
+    "static/media/item-5.jpeg": "/menu/static/media/item-5.39ce038c4ceb093d7c66.jpeg",
+    "static/media/item-9.jpeg": "/menu/static/media/item-9.46d925888a7d2fa971d6.jpeg",
+    "static/media/fa-regular-400.woff2": "/menu/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/surreal-image-african-elephant-wearing-260nw-1365289022.webp": "/menu/static/media/surreal-image-african-elephant-wearing-260nw-1365289022.19b1daaffc9a853d00df.webp",
+    "static/media/fa-v4compatibility.ttf": "/menu/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/menu/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "static/media/logo.svg": "/menu/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/menu/index.html",
+    "main.b5378bfc.css.map": "/menu/static/css/main.b5378bfc.css.map",
+    "main.9842b2b5.js.map": "/menu/static/js/main.9842b2b5.js.map",
+    "787.6b503308.chunk.js.map": "/menu/static/js/787.6b503308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5378bfc.css",
+    "static/js/main.9842b2b5.js"
+  ]
+}
